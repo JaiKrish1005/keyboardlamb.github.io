@@ -4,7 +4,11 @@
   <title>keyboardLamb's weblog</title>
   <link>https://keyboardlamb.github.io/</link>
   <description>A simple, text-only space for thoughts and notes.</description>
-  <item><title>Blogs used to be about thinking</title><link>https://keyboardlamb.github.io/2026-10-11-blogs-used-to-be-about-thinking.html</link><guid>https://keyboardlamb.github.io/2026-10-11-blogs-used-to-be-about-thinking.html</guid><description>&lt;p&gt;I am starting this blog because I miss the kind of blog that was just someone thinking out loud. Somewhere along the way a lot of blogs became tutorials and documentation, which are useful, but they leave out the part where you get stuck and change your mind.&lt;/p&gt;
+  <item><title>How I built this blog</title><link>https://keyboardlamb.github.io/2026-10-11-how-i-built-this-blog.html</link><guid>https://keyboardlamb.github.io/2026-10-11-how-i-built-this-blog.html</guid><description>&lt;p&gt;This blog is plain python, HTML and CSS, no frameworks. Each post is a text file whose name carries the date and slug with the title on the first line.&lt;/p&gt;
+
+&lt;p&gt;I write posts in an admin page which only runs on my own laptop. When I hit publish, it builds a static HTML pages and pushes to GitHub pages, so nothing runs on the public side[as of now, I have new features coming which may change this].&lt;/p&gt;
+
+&lt;p&gt;For now there is an RSS feed to follow along.&lt;/p&gt;</description></item><item><title>Blogs used to be about thinking</title><link>https://keyboardlamb.github.io/2026-10-11-blogs-used-to-be-about-thinking.html</link><guid>https://keyboardlamb.github.io/2026-10-11-blogs-used-to-be-about-thinking.html</guid><description>&lt;p&gt;I am starting this blog because I miss the kind of blog that was just someone thinking out loud. Somewhere along the way a lot of blogs became tutorials and documentation, which are useful, but they leave out the part where you get stuck and change your mind.&lt;/p&gt;
 
 &lt;p&gt;Vlogs are a good comparison. A vlog is basically a blog in video form, and nobody expects one to be a manual. It’s just someone recording their journey, which is closer to what blogs were supposed to be.&lt;/p&gt;
 
